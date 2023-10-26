@@ -3,8 +3,15 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-int main(void)
+/**
+ * main - Entry point
+ *
+ * This function assigns a random number to the variable 'n' and
+ * prints whether the number is positive, zero, or negative.
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void) /*This function assigns a random number*/
 {
 	int n;
 
