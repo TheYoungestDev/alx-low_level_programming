@@ -9,7 +9,7 @@ int main(void)
     srand(time(0));
     n = rand();
 
-    int lastDigit = n % 10;  /* Get the last digit of n */
+    int lastDigit = n % 10;
 
     printf("Last digit of %d is %d and is ", n, lastDigit);
 
