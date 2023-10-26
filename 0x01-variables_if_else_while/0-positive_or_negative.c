@@ -11,10 +11,8 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	
 	if (n > 0){
-	n++}
-	else (n = 0){
-		n=0}
+	n++ }
 	return (0);
 }
