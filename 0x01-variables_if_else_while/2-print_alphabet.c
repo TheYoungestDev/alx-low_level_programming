@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-i/**
+/**
  * main - Entry point
  *
  * This program prints the alphabet in lowercase, followed by a new line.
