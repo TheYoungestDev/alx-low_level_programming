@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "main.h"  // Include the header file to declare the function
+#include "main.h"  /** Include the header file to declare the function*/
 
 /**
  * positive_or_negative - Prints whether a number is positive, zero, or negative.
